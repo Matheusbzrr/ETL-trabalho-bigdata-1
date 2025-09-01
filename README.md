@@ -132,9 +132,3 @@ Retorna o nome e o país de todas as universidades que contenham "Pernambuco" no
 
 Os dados utilizados neste projeto são de código aberto e foram obtidos do repositório [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) no GitHub.
 
-## 👤 Autor
-
-**[Seu Nome Completo]**
-
--   **Email:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
--   **LinkedIn:** [https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/seu-perfil/)
